@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I am Bibhash Chandra
+## "A 🧑🏻‍💼 human on a relentless pursuit, pushing limits to reach my prime." 
 
-<!--
-**pursuitprimebc/pursuitprimebc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙋‍♂️ About Me
 
-Here are some ideas to get you started:
+🧑🏻‍💼 A self taught person trying to became a "Passionate Software Engineer".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Data Structures And Algorithms and a new language JAVA
+
+🔭 I’m currently solving problems of DSA from platforms like : LeetCode, Codeforces and CodeChef. 
+
+📍Personal fact I go to the GYM very often and inprocess to build a discipline life.
+
+
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bibhashchandra4850@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=pursuitprimebc&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=pursuitprimebc&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=pursuitprimebc&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
